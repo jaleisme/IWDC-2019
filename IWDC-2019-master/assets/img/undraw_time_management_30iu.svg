@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="764.789" height="597.122" viewBox="0 0 764.789 597.122">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+  </defs>
+  <g id="undraw_time_management_30iu" transform="translate(0 0)">
+    <g id="undraw_time_management_30iu-2" data-name="undraw_time_management_30iu" transform="translate(-0.007 -0.004)" opacity="0.11">
+      <path id="Path_970" data-name="Path 970" d="M161.8,123.65c-4.995,2.072-10.121,4.732-12.866,9.394-2.907,4.925-2.559,11.041-2.018,16.739,4.716,49.421,17.141,101.981-4.314,146.748-10.415,21.718-27.834,39.122-41.689,58.846S76.6,399.726,83.03,422.929c7.855,28.352,37.174,44.071,56.936,65.89,12.935,14.265,22,31.6,34.074,46.607s28.607,28.228,47.875,29.11c27.71,1.276,50.256-22.654,77.425-28.2,27.834-5.675,55.862,8.768,78.43,26.056s43.1,38.233,69.392,49.027c29.04,11.93,61.776,10.105,92.347,17.273,27.834,6.533,53.457,20.427,81.09,27.834s60.021,6.958,81.43-11.961c27.9-24.742,25.708-68.812,43.53-101.54,16.554-30.409,48.957-48.563,70.768-75.446,39.246-48.385,37.963-122.339,4.639-174.961s-93.685-84.484-155.407-92.78c-27.834-3.734-56.5-3.224-83.255-11.721C510.678,165.386,468.053,83.94,394.927,66.992c-46.483-10.755-91.69,7.871-131.284,30.8C229.275,117.689,197.567,108.813,161.8,123.65Z" transform="translate(-81.08 -63.86)" fill="#3dc06e" opacity="0.1"/>
+      <circle id="Ellipse_477" data-name="Ellipse 477" cx="279.888" cy="279.888" r="279.888" transform="translate(123.662 17.328)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_478" data-name="Ellipse 478" cx="275.249" cy="275.249" r="275.249" transform="translate(128.302 21.967)" fill="#3dc06e"/>
+      <circle id="Ellipse_479" data-name="Ellipse 479" cx="218.807" cy="218.807" r="218.807" transform="translate(184.743 78.408)" fill="#dde1ec"/>
+      <rect id="Rectangle_78" data-name="Rectangle 78" width="12.371" height="193.293" transform="translate(397.365 117.067)" fill="#535461" opacity="0.3"/>
+      <g id="Group_48" data-name="Group 48" transform="translate(286.153 234.722)" opacity="0.1">
+        <rect id="Rectangle_79" data-name="Rectangle 79" width="174.737" height="15.463" transform="translate(130.541 57.854)"/>
+        <rect id="Rectangle_80" data-name="Rectangle 80" width="15.463" height="124.109" transform="translate(0 13.699) rotate(-62.36)"/>
+        <circle id="Ellipse_480" data-name="Ellipse 480" cx="23.195" cy="23.195" r="23.195" transform="translate(94.202 42.391)"/>
+      </g>
+      <rect id="Rectangle_81" data-name="Rectangle 81" width="174.737" height="15.463" transform="translate(416.694 289.484)" fill="#535461"/>
+      <rect id="Rectangle_82" data-name="Rectangle 82" width="124.109" height="15.463" transform="translate(293.381 231.647) rotate(27.64)" fill="#535461"/>
+      <circle id="Ellipse_481" data-name="Ellipse 481" cx="23.195" cy="23.195" r="23.195" transform="translate(380.355 274.02)" fill="#535461"/>
+      <g id="Group_49" data-name="Group 49" transform="translate(184.727 78.408)" opacity="0.1">
+        <path id="Path_987" data-name="Path 987" d="M337.01,410.365c0-120.847,97.961-218.807,218.807-218.807A218.466,218.466,0,0,1,730.677,278.8,218.747,218.747,0,0,0,538.807,165.27C417.961,165.27,320,263.231,320,384.077A217.833,217.833,0,0,0,363.97,515.64a217.809,217.809,0,0,1-26.96-105.275Z" transform="translate(-320 -165.27)"/>
+      </g>
+      <path id="Path_1010" data-name="Path 1010" d="M705.32,326.79s17.3,6.355,28.607,1.415l5.652.356s9.394,6.587,19.329,3.642" transform="translate(-222.675 -123.499)" opacity="0.05"/>
+      <path id="Path_1011" data-name="Path 1011" d="M810.759,313.09s-2.822,6.711-1.415,8.83" transform="translate(-246.181 -120.392)" opacity="0.05"/>
+      <path id="Path_1012" data-name="Path 1012" d="M665.58,310.35s1.415,6.711,0,8.83" transform="translate(-213.66 -119.77)" opacity="0.05"/>
+    </g>
+  </g>
+</svg>

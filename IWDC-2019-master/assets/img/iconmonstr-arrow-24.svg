@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="123.857" height="88.571" viewBox="0 0 123.857 88.571">
+  <defs>
+    <filter id="iconmonstr-arrow-24" x="0" y="0" width="123.857" height="88.571" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#iconmonstr-arrow-24)">
+    <path id="iconmonstr-arrow-24-2" data-name="iconmonstr-arrow-24" d="M22.181,105.857,4,88.214,39.286,52.928,4,17.643,22.181,0l52.39,52.928Z" transform="translate(114.86 -1) rotate(90)" fill="#3dc06e"/>
+  </g>
+</svg>

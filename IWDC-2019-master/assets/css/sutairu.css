@@ -1,0 +1,193 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.t1{
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+.liquid-t1{
+    position: absolute;
+    z-index: -1;
+    width: 40%;
+    top: -10%;
+    left: -10%;
+}
+
+.title-nav{
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 3%;
+    font-weight: bolder;
+}
+
+.t1-content{
+    margin-top: 10%;
+}
+
+.illus-t1{
+    width: 100%;
+}
+
+.caption-t1{
+    margin-top: 10%;
+    text-align: center;
+    overflow: hidden;
+}
+
+#gl-t1{
+    left: -400px;
+    opacity: 0;
+}
+
+.green-text{
+    color: #3dc06e;
+}
+
+.section-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 72px;
+}
+
+body .hero-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 84px;
+    font-weight: bolder;
+}
+
+.hero-subtitle{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.gl{
+    background-color: #3dc06e;
+    height: 3px;
+    border-radius: 10px;
+}
+
+.scrl-down, .explore{
+    width: 5%;
+    margin-left: 15%;
+}
+
+.explore{
+    margin-left: 13.75%;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.s1,
+.s2,
+.s3 {
+    min-height: 100vh;
+}
+
+.s1 .row,
+.s2 .row,
+.s3 .row {
+    min-height: 100%;
+}
+
+.ill-big-s1,
+.ill-big-s2,
+.ill-big-s3,
+.ill-bg-s1,
+.ill-bg-s2,
+.ill-bg-s3 {
+    width: 100%;
+    display: none;
+}
+
+.ill-bg-s1,
+.ill-bg-s2,
+.ill-bg-s3 {
+    left: 0%;
+}
+.s1,
+.s2,
+.s3 {
+    overflow: hidden;
+}
+
+.col-big-s1,
+.col-big-s2,
+.col-big-s3 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.content-1,
+.content-2,
+.content-3{
+    margin-top: 20%;
+    text-align: center;
+    color: #3dc06e;
+}
+
+.tit-1,
+.tit-2,
+.tit-3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 72px;
+    font-weight: bolder;
+}
+
+.content-1, .content-2, .content-3, .hrl-s4, .hrr-s4 {
+    position: relative;
+    opacity: 0;
+}
+
+.content-1, .content-3, .hrr-s4 {
+    right: -300px;
+}
+
+.content-2, .hrl-s4 {
+    left: -300px;
+}
+
+.vg-foot{
+    background-color: #3dc06e;
+    margin-top: 3%;
+    font-size: 12px;
+    font-weight: lighter;
+    color: #fff;
+}
+
+.clip{
+    clip-path: polygon(0 0, 100% 0, 100% 45%, 50% 60%, 0 45%);
+    background-color: #3dc06e;
+    margin-top: -10%;
+    margin-left: -10%;
+    margin-right: -10%;
+}
+
+.card-ill-1,
+.card-ill-2,
+.card-ill-3 {
+    display: none;
+    padding: 5%;
+}
+
+.bg-scrl-up {
+    display: none;
+    position: fixed;
+    top: 85%;
+    left: 90%;
+    z-index: 1;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #ffffff;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.2);
+}
+.scrl-up{
+    width: 90%;
+    height: 90%;
+}
+
+.nav-link:hover {
+    color: #319255;
+}
